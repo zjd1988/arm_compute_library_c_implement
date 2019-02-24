@@ -1,0 +1,35 @@
+﻿  NENonLinearFilter.c
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(6804): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(6805): warning C4244: “=”: 从“float”转换到“uint32_t”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(6831): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(6833): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(6871): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(6873): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(6878): warning C4244: “=”: 从“float”转换到“uint32_t”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(6904): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(6908): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(12127): warning C4244: “函数”: 从“uint64_t”转换到“int”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(16714): warning C4244: “函数”: 从“float64_t”转换到“float”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(16715): warning C4244: “函数”: 从“float64_t”转换到“float”，可能丢失数据
+  common.c
+  正在生成代码...
+  main.cpp
+  test_NENonLinearFilter.cpp
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(5456): warning C4309: “参数”: 截断常量值
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(5467): warning C4309: “参数”: 截断常量值
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(6804): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(6805): warning C4244: “=”: 从“float”转换到“uint32_t”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(6831): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(6833): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(6871): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(6873): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(6878): warning C4244: “=”: 从“float”转换到“uint32_t”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(6904): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(6908): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(12127): warning C4244: “参数”: 从“uint64_t”转换到“int”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(16714): warning C4244: “参数”: 从“float64_t”转换到“float”，可能丢失数据
+f:\arm_compute_library_c_implement\arm_compute_library_c_implement\include\neon_2_sse.h(16715): warning C4244: “参数”: 从“float64_t”转换到“float”，可能丢失数据
+  test_common.cpp
+  正在生成代码...
+  test_prj.vcxproj -> F:\arm_compute_library_c_implement\arm_compute_library_c_implement\vs_prj\test_prj\x64\Debug\test_prj.exe
+  test_prj.vcxproj -> F:\arm_compute_library_c_implement\arm_compute_library_c_implement\vs_prj\test_prj\x64\Debug\test_prj.pdb (Full PDB)
